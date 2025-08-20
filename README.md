@@ -5,7 +5,7 @@
 <!-- <h3 align="left">Passion To Contribute</h3> -->
 
 
-<h2 align="left">About me</h2>
+<h2 align="left">About</h2>
 
 ####
 
