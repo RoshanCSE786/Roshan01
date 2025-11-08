@@ -9,7 +9,7 @@
 
 ####
 
-<p align="left">👯 I’m always open to collaborate and develop new things 👯<br>📫 Reach me :  roshansahu786@gmail.com<br>⚡ Python Developer | DevOps | Cloud Enthusiast</p>
+<p align="left">👯 I’m always open to collaborate and develop new things 👯<br>📫 Reach me :  roshansahh786@gmail.com<br>⚡ Python Developer | DevOps | Cloud Enthusiast</p>
 
 ###
 
